@@ -1,5 +1,12 @@
 package arrays;
 
+/**
+ * Problem: Concatenation of Array
+ * Link: https://leetcode.com/problems/concatenation-of-array/
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
+
 import java.util.Arrays;
 
 public class ConcatenationOfArray{
