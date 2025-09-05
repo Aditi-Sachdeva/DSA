@@ -1,4 +1,4 @@
-package arrays;
+package arrays.arraysBasic;
 
 /**
  * Problem: How Many Numbers Are Smaller Than the Current Number

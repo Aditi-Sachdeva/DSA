@@ -1,4 +1,5 @@
-package arrays;
+package arrays.arraysBasic;
+
 
 /**
  * Problem: Running Sum of 1d Array

@@ -1,4 +1,5 @@
-package arrays;
+package arrays.arraysBasic;
+
 
 /**
  * Problem: Kids With the Greatest Number of Candies

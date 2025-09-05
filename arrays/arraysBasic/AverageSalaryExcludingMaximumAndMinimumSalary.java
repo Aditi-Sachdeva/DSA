@@ -1,4 +1,4 @@
-package arrays;
+package arrays.arraysBasic;
 
 /**
  * Problem: Average Salary Excluding the Minimum and Maximum Salary

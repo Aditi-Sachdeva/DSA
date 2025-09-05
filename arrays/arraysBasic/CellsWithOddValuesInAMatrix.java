@@ -1,4 +1,4 @@
-package arrays;
+package arrays.arraysBasic;
 
 /**
  * Problem: Cells with Odd Values in a Matrix

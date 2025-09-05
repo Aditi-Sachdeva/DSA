@@ -1,4 +1,4 @@
-package arrays;
+package arrays.arraysBasic;
 
 /**
  * Problem: Find the Highest Altitude

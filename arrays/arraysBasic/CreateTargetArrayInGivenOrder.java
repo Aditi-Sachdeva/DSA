@@ -1,4 +1,4 @@
-package arrays;
+package arrays.arraysBasic;
 
 /**
  * Problem: Create Target Array in the Given Order

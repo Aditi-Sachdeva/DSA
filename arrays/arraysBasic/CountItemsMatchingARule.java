@@ -1,4 +1,5 @@
-package arrays;
+package arrays.arraysBasic;
+
 
 /**
  * Problem: Count Items Matching a Rule
