@@ -5,6 +5,7 @@ package arrays.arraysEasy;
  * Link: https://leetcode.com/problems/majority-element/
  * Time Complexity: O(n)
  * Space Complexity: O(1)
+ * Approach: Boyer-Moore Voting Algorithm
  */
 
 
