@@ -1,4 +1,4 @@
-package arrays.arrays2DBasic;
+package arrays.arrays2D;
 
 /**
  * Problem: Matrix Diagonal Sum
